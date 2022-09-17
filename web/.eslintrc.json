@@ -38,6 +38,7 @@
       "error",
       "always"
     ],
-    "react-hooks/exhaustive-deps": "warn"
+    "react-hooks/exhaustive-deps": "warn",
+    "no-extra-boolean-cast": "off"
   }
 }
